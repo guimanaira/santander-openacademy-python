@@ -22,7 +22,7 @@ utilizando exemplos práticos e explicações claras — habilidades essenciais 
 Durante o aprendizado, apliquei os conhecimentos adquiridos em projetos práticos:
 ### 1️⃣ [Sistema de Análise de Transações Bancárias](https://github.com/guimanaira/santander-openacademy-python/blob/main/transacoes/transacoes-bancarias.md)
 ### 2️⃣ [Validador de Dados de Clientes (KYC)](https://github.com/guimanaira/santander-openacademy-python/blob/main/kyc/validador-kyc.md)
-### 3️⃣ [Simulador de Crédito e Score Simplificado]()
+### 3️⃣ [Simulador de Crédito e Score Simplificado](https://github.com/guimanaira/santander-openacademy-python/blob/main/credito/simulador-credito-score.md)
 ### 4️⃣ [Monitor de Movimentações Suspeitas (Anti-Fraude)]()
 ### 5️⃣ [Gerador de Relatório Bancário Diário]()
 ### 6️⃣ [Sistema de Controle de Limite de Conta]()
