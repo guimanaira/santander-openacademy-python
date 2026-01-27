@@ -1,6 +1,6 @@
 # 🏦 Sistema de Análise de Transações Bancárias
 
-### 🚀 Desafio
+## 🚀 Desafio
 
 O desafio consiste em **aplicar conceitos fundamentais e intermediários de Python para desenvolver um sistema de análise de transações bancárias**, a partir de um arquivo CSV, simulando um cenário real de **análise financeira e apoio à tomada de decisão** no setor bancário.
 
@@ -8,9 +8,9 @@ A aplicação realiza a **leitura de dados transacionais**, identifica **entrada
 
 Este projeto simula atividades comuns enfrentadas por **analistas** , **equipes financeiras** e **áreas de risco e compliance**.
 
----
 
-### 🎯 Objetivo Geral
+
+## 🎯 Objetivo Geral
 
 - Desenvolver um sistema simples de análise de transações bancárias
 - Ler e interpretar dados financeiros a partir de um arquivo CSV
@@ -18,9 +18,9 @@ Este projeto simula atividades comuns enfrentadas por **analistas** , **equipes 
 - Calcular o total de entradas, total de saídas e saldo final
 - Tratar erros relacionados à leitura de arquivos e dados inconsistentes
 
----
 
-### 🤖 Ferramentas e Conceitos Aplicados
+
+## 🤖 Ferramentas e Conceitos Aplicados
 
 - **Python**
 - Terminal / Console
@@ -32,9 +32,9 @@ Este projeto simula atividades comuns enfrentadas por **analistas** , **equipes 
 - Tratamento de exceções (`try / except`)
 - Organização modular de código
 
----
 
-### 🧠 Processo de Criação
+
+## 🧠 Processo de Criação
 
 O projeto foi estruturado com foco em **boas práticas de programação**, clareza e reutilização de código, simulando um ambiente profissional.
 
@@ -44,9 +44,9 @@ O projeto foi estruturado com foco em **boas práticas de programação**, clare
 - Implementação de tratamento de exceções para erros de arquivo ou dados
 - Cálculo financeiro simples para geração de um resumo bancário
 
----
 
-### 📁 Estrutura do Projeto
+
+## 📁 Estrutura do Projeto
 
 ```
 transacoes/
@@ -55,6 +55,6 @@ transacoes/
 │── main.py                       # Execução principal do sistema
 
 ```
-### 💻 Projeto
+## 💻 Projeto
 - [Sistema de Análise de Transações Bancárias](https://github.com/guimanaira/santander-openacademy-python/tree/main/transacoes)
 
