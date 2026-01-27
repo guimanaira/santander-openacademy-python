@@ -20,7 +20,7 @@ utilizando exemplos práticos e explicações claras — habilidades essenciais 
 
 # 📂 Projetos Desenvolvidos
 Durante o aprendizado, apliquei os conhecimentos adquiridos em projetos práticos:
-### 1️⃣ [Sistema de Análise de Transações Bancárias]()
+### 1️⃣ [Sistema de Análise de Transações Bancárias](https://github.com/guimanaira/santander-openacademy-python/blob/main/transacoes/transacoes-bancarias.md)
 ### 2️⃣ [Validador de Dados de Clientes (KYC)]()
 ### 3️⃣ [Simulador de Crédito e Score Simplificado]()
 ### 4️⃣ [Monitor de Movimentações Suspeitas (Anti-Fraude)]()
