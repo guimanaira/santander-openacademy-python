@@ -1,4 +1,4 @@
-# 3️⃣ Simulador de Crédito e Score Simplificado
+# 💳 Simulador de Crédito e Score Simplificado
 
 ## 🚀 Desafio
 
