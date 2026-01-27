@@ -54,3 +54,5 @@ transacoes/
 │── analise.py                    # Funções de leitura e análise das transações
 │── main.py                       # Execução principal do sistema
 ```
+💻 Projeto
+- [Sistema de Análise de Transações Bancárias] (https://github.com/guimanaira/santander-openacademy-python/tree/main/transacoes)  
