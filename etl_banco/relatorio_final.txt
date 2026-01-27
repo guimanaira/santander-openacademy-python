@@ -1,0 +1,4 @@
+RELATORIO BANCÁRIO
+Total de Depósitos: R$ 174092.57
+Total de Saques: R$ 573463.00
+Saldo Final: R$ -399370.43
