@@ -55,4 +55,4 @@ transacoes/
 │── main.py                       # Execução principal do sistema
 ```
 💻 Projeto
-- [Sistema de Análise de Transações Bancárias] (https://github.com/guimanaira/santander-openacademy-python/tree/main/transacoes)  
+- [Sistema de Análise de Transações Bancárias](https://github.com/guimanaira/santander-openacademy-python/tree/main/transacoes)  
