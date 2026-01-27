@@ -48,12 +48,12 @@ Essa abordagem reflete boas práticas utilizadas em projetos reais de dados e en
 
 ```
 etl_banco/
-│── extracao.py           # Responsável pela extração dos dados (E)
-│── transformacao.py      # Responsável pela transformação e cálculos (T)
-│── carga.py              # Responsável pela geração do relatório final (L)
-│── main.py               # Orquestração do pipeline ETL
-│── dados.csv             # Fonte de dados bancários
-│── relatorio_final.txt   # Resultado do processamento
+│── extracao.py               # Responsável pela extração dos dados (E)
+│── transformacao.py          # Responsável pela transformação e cálculos (T)
+│── carga.py                  # Responsável pela geração do relatório final (L)
+│── main.py                   # Orquestração do pipeline ETL
+│── dados.csv                 # Fonte de dados bancários
+│── relatorio_final.txt       # Resultado do processamento
 ```
 
 
