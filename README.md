@@ -26,5 +26,5 @@ Durante o aprendizado, apliquei os conhecimentos adquiridos em projetos prático
 ### 4️⃣ [Monitor de Movimentações Suspeitas (Anti-Fraude)](https://github.com/guimanaira/santander-openacademy-python/blob/main/fraude/monitor-anti-fraude.md)
 ### 5️⃣ [Gerador de Relatório Bancário Diário](https://github.com/guimanaira/santander-openacademy-python/blob/main/relatorios/relatorio-bancario-diario.md)
 ### 6️⃣ [Sistema de Controle de Limite de Conta](https://github.com/guimanaira/santander-openacademy-python/blob/main/limite/controle-limite-conta.md)
-### 7️⃣ [Análise de Clientes Inadimplentes]()
+### 7️⃣ [Análise de Clientes Inadimplentes](https://github.com/guimanaira/santander-openacademy-python/blob/main/inadimplencia/analise-inadimplencia.md)
 ### 8️⃣ [Pipeline Simples de Dados Bancários (Estilo ETL)]()
