@@ -7,7 +7,7 @@ Este repositório reflete meu compromisso com o **aprendizado contínuo** e a co
 utilizando exemplos práticos e explicações claras — habilidades essenciais para quem está iniciando na área de tecnologia e dados.
 
 
-# 📚 Conteúdos Principais
+# 📚 Conteúdos abordados
 
 - Introdução ao Python
 - Fundamentos do Python
